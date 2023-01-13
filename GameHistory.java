@@ -1,11 +1,5 @@
 package guesswho;
 
-/* 
- * Name: Chloe, Emma, Xin
- * Date: Jan 25, 2021
- * Teacher: Mrs. Andrighetti
- * Description: The GameHistory class for the program that is the game "Guess Who" 
- */
 
 import javax.swing.*;
 import java.awt.*;

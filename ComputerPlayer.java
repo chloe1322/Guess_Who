@@ -4,12 +4,6 @@ import java.io.*;
 import java.util.*;
 import guesswho.Character;
 
-/* 
- * Name: Chloe, Emma, Xin
- * Date: Jan 20, 2021
- * Teacher: Mrs. Andrighetti
- * Description: The computer player class for the program that is the game "Guess Who" 
- */
 
 public class ComputerPlayer {
 	// attributes

@@ -1,10 +1,4 @@
 package guesswho;
-/* 
- * Name: Chloe, Emma, Xin
- * Date: Jan 20, 2021
- * Teacher: Mrs. Andrighetti
- * Description: The character class for the program that is the game "Guess Who" 
- */
 
 public class Character {
 	// attributes

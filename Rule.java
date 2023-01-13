@@ -1,12 +1,5 @@
 package guesswho;
 
-/* 
- * Name: Chloe, Emma, Xin
- * Date: Jan 20, 2021
- * Teacher: Mrs. Andrighetti
- * Description: The Rule class for the program that is the game "Guess Who" 
- */
-
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
